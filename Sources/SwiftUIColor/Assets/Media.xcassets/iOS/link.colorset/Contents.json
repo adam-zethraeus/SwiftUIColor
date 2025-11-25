@@ -29,26 +29,6 @@
         }
       },
       "idiom" : "universal"
-    },
-    {
-      "color" : {
-        "platform" : "ios",
-        "reference" : "linkColor"
-      },
-      "idiom" : "iphone"
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "dark"
-        }
-      ],
-      "color" : {
-        "platform" : "ios",
-        "reference" : "linkColor"
-      },
-      "idiom" : "iphone"
     }
   ],
   "info" : {

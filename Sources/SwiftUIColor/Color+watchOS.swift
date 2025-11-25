@@ -28,7 +28,7 @@ public extension Color {
 }
 
 public extension Color {
-    struct WatchOS {
+    struct WatchOS: Sendable {
         public let tertiaryLabel = Color("watchOS/tertiaryLabel", bundle: .myModule)
 
         public let systemRed = Color("watchOS/systemRed", bundle: .myModule)

@@ -29,26 +29,6 @@
         }
       },
       "idiom" : "universal"
-    },
-    {
-      "color" : {
-        "platform" : "tvos",
-        "reference" : "systemCyanColor"
-      },
-      "idiom" : "tv"
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "dark"
-        }
-      ],
-      "color" : {
-        "platform" : "tvos",
-        "reference" : "systemCyanColor"
-      },
-      "idiom" : "tv"
     }
   ],
   "info" : {

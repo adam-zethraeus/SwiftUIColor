@@ -49,7 +49,7 @@ public extension Color {
 }
 
 public extension Color {
-    struct VisionOS {
+    struct VisionOS: Sendable {
         public let systemBackground = Color("visionOS/systemBackground", bundle: .myModule)
 
         public let tertiaryLabel = Color("visionOS/tertiaryLabel", bundle: .myModule)

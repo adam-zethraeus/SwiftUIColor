@@ -28,7 +28,7 @@ public extension Color {
 }
 
 public extension Color {
-    struct Universal {
+    struct Universal: Sendable {
         public let tertiaryLabel = Color("universal/tertiaryLabel", bundle: .myModule)
 
         public let systemRed = Color("universal/systemRed", bundle: .myModule)

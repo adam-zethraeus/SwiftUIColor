@@ -11,13 +11,6 @@
         }
       },
       "idiom" : "universal"
-    },
-    {
-      "color" : {
-        "platform" : "XR",
-        "reference" : "tintColor"
-      },
-      "idiom" : "reality"
     }
   ],
   "info" : {

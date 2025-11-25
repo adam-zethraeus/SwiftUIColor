@@ -11,13 +11,6 @@
         }
       },
       "idiom" : "universal"
-    },
-    {
-      "color" : {
-        "platform" : "XR",
-        "reference" : "systemGray3Color"
-      },
-      "idiom" : "vision"
     }
   ],
   "info" : {

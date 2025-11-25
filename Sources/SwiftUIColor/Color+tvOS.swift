@@ -33,7 +33,7 @@ public extension Color {
 }
 
 public extension Color {
-    struct TvOS {
+    struct TvOS: Sendable {
         public let tertiaryLabel = Color("tvOS/tertiaryLabel", bundle: .myModule)
 
         public let systemRed = Color("tvOS/systemRed", bundle: .myModule)

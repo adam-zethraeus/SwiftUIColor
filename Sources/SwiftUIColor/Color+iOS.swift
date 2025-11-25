@@ -51,7 +51,7 @@ public extension Color {
 }
 
 public extension Color {
-    struct IOS {
+    struct IOS: Sendable {
         public let systemBackground = Color("iOS/systemBackground", bundle: .myModule)
 
         public let tertiaryLabel = Color("iOS/tertiaryLabel", bundle: .myModule)

@@ -27,26 +27,6 @@
         }
       },
       "idiom" : "universal"
-    },
-    {
-      "color" : {
-        "platform" : "ios",
-        "reference" : "groupTableViewBackgroundColor"
-      },
-      "idiom" : "iphone"
-    },
-    {
-      "appearances" : [
-        {
-          "appearance" : "luminosity",
-          "value" : "dark"
-        }
-      ],
-      "color" : {
-        "platform" : "ios",
-        "reference" : "groupTableViewBackgroundColor"
-      },
-      "idiom" : "iphone"
     }
   ],
   "info" : {

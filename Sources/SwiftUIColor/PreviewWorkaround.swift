@@ -13,7 +13,7 @@ import Foundation
 private class CurrentBundleFinder {}
 
 extension Foundation.Bundle {
-    static var myModule: Bundle = {
+    static let myModule: Bundle = {
         if #available(iOS 18.0, macOS 15.0, watchOS 11.0, tvOS 18.0, visionOS 2.0, *) {
             return .module
         }

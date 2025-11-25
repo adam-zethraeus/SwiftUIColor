@@ -56,7 +56,7 @@ public extension Color {
 }
 
 public extension Color {
-    struct MacOS {
+    struct MacOS: Sendable {
         public let controlAccentColor = Color("macOS/controlAccentColor", bundle: .myModule)
 
         public let keyboardFocusIndicatorColor = Color("macOS/keyboardFocusIndicatorColor", bundle: .myModule)
